@@ -94,4 +94,16 @@ Pull from original	git pull upstream main
 
 Update your fork	git push origin main
 
+---
 
+# ✅ Lab Work Completed — Rishikesh Munnaluri
+
+Completed and verified modified versions of Sessions 1–4 are available in [`completed/`](./completed/).
+
+- [Session 1 — Agentic Action](./completed/Session_1_Completed_Rishikesh.ipynb)
+- [Session 2 — Tool Calling](./completed/Session_2_Completed_Rishikesh.ipynb)
+- [Session 3 — ReAct Loop](./completed/Session_3_Completed_Rishikesh.ipynb)
+- [Session 4 — Mini RAG](./completed/Session_4_Completed_Rishikesh.ipynb)
+- [Lab Completion Report](./LAB_COMPLETION.md)
+
+All four completed notebooks were executed successfully. The completed versions avoid committing API keys or secrets and use deterministic offline simulations where appropriate.
